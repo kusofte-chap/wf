@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/main.cfe374c3.chunk.js",
-    "main.js.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/main.cfe374c3.chunk.js.map",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/runtime-main.afce72d6.js",
-    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/runtime-main.afce72d6.js.map",
-    "static/js/2.fe72ba8a.chunk.js": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/2.fe72ba8a.chunk.js",
-    "static/js/2.fe72ba8a.chunk.js.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/2.fe72ba8a.chunk.js.map",
-    "static/js/3.3df74a62.chunk.js": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/3.3df74a62.chunk.js",
-    "static/js/3.3df74a62.chunk.js.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/3.3df74a62.chunk.js.map",
-    "index.html": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fe72ba8a.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/js/2.fe72ba8a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf-demo@v0.0.11/static/media/logo.6ce24c58.svg"
+    "main.css": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/main.086cac7c.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/main.086cac7c.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/runtime-main.44ade4e4.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/runtime-main.44ade4e4.js.map",
+    "static/js/2.fe72ba8a.chunk.js": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/2.fe72ba8a.chunk.js",
+    "static/js/2.fe72ba8a.chunk.js.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/2.fe72ba8a.chunk.js.map",
+    "static/js/3.3df74a62.chunk.js": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/3.3df74a62.chunk.js",
+    "static/js/3.3df74a62.chunk.js.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/3.3df74a62.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fe72ba8a.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/js/2.fe72ba8a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://cdn.jsdelivr.net/gh/kusofte-chap/wf@v0.0.14/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.afce72d6.js",
+    "static/js/runtime-main.44ade4e4.js",
     "static/js/2.fe72ba8a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.cfe374c3.chunk.js"
+    "static/js/main.086cac7c.chunk.js"
   ]
 }
